@@ -487,6 +487,7 @@ body {
 }
 .lista-canciones img:hover{
 	transform: scale(1.05);
+	cursor: pointer;
 }
 .lista-canciones p{
 	margin-bottom: 10px;
